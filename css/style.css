@@ -1,8 +1,16 @@
+
+
+
 .ms_color_white {
     color: white;
 }
 
 .ms_color_blue{
     background-color:rgb(49, 63, 81);
+}
+
+.ms_container{
+    width: 1170px;
+    margin: auto;
 }
 
