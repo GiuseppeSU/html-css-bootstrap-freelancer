@@ -1,0 +1,26 @@
+#ms_bg_color{
+    background-color: rgb(45, 186, 154);
+
+}
+
+#ms_bg_color2{
+    background-color: rgb(49, 63, 81);
+}
+
+#ms_border{
+    border: 3px solid white;
+    width: 80px;
+    margin: 10px;
+    opacity: 1;
+    border-radius: 10px;
+    
+}
+
+#ms_border_black{
+    border: 3px solid black;
+    width: 80px;
+    margin: 10px;
+    opacity: 1;
+    border-radius: 10px;
+    
+}
