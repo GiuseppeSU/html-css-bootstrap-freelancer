@@ -35,3 +35,9 @@
 .ms_footer_color{
     background-color: rgb(63, 84, 108);
 }
+
+.ms_hover li:hover{
+  color: rgb(45, 186, 154);
+
+
+}
